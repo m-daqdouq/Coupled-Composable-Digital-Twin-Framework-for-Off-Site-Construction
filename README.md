@@ -6,7 +6,7 @@ The framework treats multiple digital twins as a **system-of-systems (SoS)**: ea
 
 > **Status:** Early research prototype / open-source foundation (v0.1).
 >
-> This repository is aligned with the current study manuscript, **CCDT Rev10**. The implementation will evolve as research algorithms, datasets, and validation materials are released.
+> This repository is aligned with the current **CCDT Rev10** study manuscript. The implementation will evolve as research algorithms, datasets, and validation materials are released.
 
 ## Research problem
 
@@ -145,13 +145,12 @@ Apache License 2.0 (planned for the initial public release).
 
 ## Maintainer
 
-**Yongcheol Lee**  
-Associate Professor, Construction Management  
-Louisiana State University
-
-
 **Mohannad Daqdouq**  
 Ph.D. Student, Construction Management  
+Louisiana State University
+
+**Yongcheol Lee**  
+Associate Professor, Construction Management  
 Louisiana State University
 
 ## Citation
