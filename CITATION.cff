@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the metadata below."
+title: "Coupled-Composable Digital Twin Framework for Off-Site Construction"
+type: software
+version: 0.1.0
+date-released: 2026-08-31
+authors:
+  - family-names: Lee
+    given-names: Yongcheol
+    affiliation: "Louisiana State University"
+  - family-names: Daqdouq
+    given-names: Mohannad
+    affiliation: "Louisiana State University"
+repository-code: "https://github.com/m-daqdouq/Coupled-Composable-Digital-Twin-Framework-for-Off-Site-Construction"
+url: "https://github.com/m-daqdouq/Coupled-Composable-Digital-Twin-Framework-for-Off-Site-Construction"
+license: Apache-2.0
+abstract: >-
+  An open-source research implementation of a Coupled-Composable Digital Twin
+  (CCDT) framework for construction project management and off-site construction.
+  The framework treats multiple digital twins as a system-of-systems and supports
+  modeling of cross-twin physical and digital interactions, probabilistic inference,
+  synchronization, and coordinated decision support. The initial reference use case
+  focuses on modular/manufactured housing.
+keywords:
+  - digital twin
+  - coupled-composable digital twin
+  - off-site construction
+  - modular construction
+  - manufactured housing
+  - construction management
+  - system of systems
+  - probabilistic graphical model
+  - Bayesian network
+  - interoperability
+  - open-source ecosystem
