@@ -145,6 +145,11 @@ Apache License 2.0 (planned for the initial public release).
 
 ## Maintainer
 
+**Yongcheol Lee**  
+Associate Professor, Construction Management  
+Louisiana State University
+
+
 **Mohannad Daqdouq**  
 Ph.D. Student, Construction Management  
 Louisiana State University
